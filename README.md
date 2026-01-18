@@ -108,7 +108,7 @@ wanderlust/
 ### Clone using the web URL
 
 ```bash
-git clone https://github.com/sherlock-hashed/WanderLust.git
+git clone https://github.com/sherlock-hashed/Wanderlust.git
 cd WanderLust
 ```
 
